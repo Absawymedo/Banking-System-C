@@ -15,10 +15,10 @@ Usage
 
 The application presents users with a menu of options:
 
-Create an account
-Deposit money
-Withdraw money
-Check balance
+1-Create an account.
+2-Deposit money.
+3-Withdraw money.
+4-Check balance.
 
 
 Users can navigate through the menu using the arrow keys and select an option by pressing enter. When creating an account, users will be prompted to enter their name and initial balance. When depositing or withdrawing money, users will be prompted to enter the account number and amount. When checking the balance, users will be prompted to enter the account number.
