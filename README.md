@@ -16,11 +16,8 @@ Usage
 The application presents users with a menu of options:
 
 -Create an account
-
 -Deposit money
-
 -Withdraw money
-
 -Check balance
 
 
