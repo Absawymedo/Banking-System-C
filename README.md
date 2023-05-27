@@ -8,19 +8,6 @@ The banking system project is a C++ application that provides users with a simpl
 The banking system project is an excellent example of a simple yet useful C++ application that demonstrates how to use key programming concepts such as classes, functions, and conditional statements. It is also a great starting point for anyone who wants to learn more about C++ programming or who wants to build their own banking application. Overall, the banking system project is a valuable resource for anyone interested in learning more about C++ programming or building their own banking system.
 
 
-
-> Getting Started
-
-Clone the repository using git clone https://github.com/your-username/banking-system.git or download the zip file and extract it.
-
-Navigate to the project directory using the terminal or command prompt.
-
-Compile the project by running the command g++ main.cpp -o banking-system.
-
-Run the application by executing ./banking-system.
-
-
-
 > Usage
 
 The application presents users with a menu of options:
